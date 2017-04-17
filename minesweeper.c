@@ -107,7 +107,7 @@ void print_table() {
 		printf("f (put/remove Flag in cell), c (Check cell), n (New game), q (Exit game): ");
 	}
 	else if(game_mode == 1) {
-		printf("Enter (select to put/remove Flag in cell), q (Exit selection): ");
+		 printf("Enter (select to put/remove Flag in cell), q (Exit selection): ");
 	}
 	else if(game_mode == 2) {
 		printf("Enter (select to check cell), q (Exit selection): ");
