@@ -31,7 +31,7 @@ char getch_(int echo)
         ch = '8';
         break;
       case 'B':
-        ch = '2';
+           ch = '2';
         break;
       case 'C':
         ch = '6';
