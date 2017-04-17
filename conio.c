@@ -55,6 +55,6 @@ char getch(void)
 /* Read 1 character with echo */
 char getche(void) 
 {
-      return getch_(1);
+    return getch_(1);
 }
 
