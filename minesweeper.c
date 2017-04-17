@@ -203,7 +203,7 @@ flag_mode:
 			} else if(direction == '6') {
 				x = ++x % MAX;
 			}
-			else if(direction == 'c' || direction == 'C') {
+		     else if(direction == 'c' || direction == 'C') {
 				goto check_mode;
 			}
 			else if(direction == '\n') {
