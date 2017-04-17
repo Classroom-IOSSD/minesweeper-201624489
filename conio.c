@@ -1,7 +1,7 @@
 #include "conio.h"
 
 static struct termios old, new;
-
+//commit
 /* Initialize new terminal i/o settings */
 void initTermios(int echo) 
 {
